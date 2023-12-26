@@ -9,3 +9,4 @@ The following codes are included:
 6. Implementing the forward and backward procedures using Hidden Markov Model to find the probability of a word sequence.
 7. Implementing the Probabilistic Context Free Grammar (PCFG) and find the inside probability of a word sequence using the CYK algorithm.
 8. Constructing the parse tree for the given sentence using Viterbi PCFG algorithm.
+9. Implementing the Viterbi algorithm to find the probability of a word sequence, and infer the best tag sequence using Hidden Markov Model.
