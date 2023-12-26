@@ -5,3 +5,4 @@ The following codes are included:
 2. Performing T-test to determine if the sequence of words form a collocation or not. The file webtext.txt contains a small corpus that is used in this test.
 3. Performing Chi-Square test to determine if the sequence of words form a collocation or not. The file webtext.txt contains a small corpus that is used in this test.
 4. Implementing the decision rule-based Naïve Bayes disambiguation method to find the sense of an ambiguous word with the given training set.
+5. Implementing the Hindle and Rooth algorithm for solving the attachment ambiguity problem.
